@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="databasecon" parallel="tests" thread-count="6">
+    
+   
+    <test name="dbconnect">
+                
+    <classes>
+      <class name="testngclass.java">
+          
+       </class>
+       </classes>    
+    
+
+  </test>
+</suite> 
